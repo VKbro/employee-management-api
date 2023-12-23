@@ -1,8 +1,11 @@
-README.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+
+### Database
+office.mv.db
+office.trace.db
 
 ### STS ###
 .apt_generated
